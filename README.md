@@ -109,13 +109,18 @@ Bold Bitcoin Wallet is an open-source, self-custodial Bitcoin wallet designed fo
 Install Bold Bitcoin Wallet on your mobile devices:
 
 **iOS:**
+
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1699228800)](https://apps.apple.com/ae/app/bold-bitcoin-wallet/id6748949478)
 
 **Android:**
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.boldwallet)
-- [F-Droid](https://f-droid.org/packages/com.boldwallet) - FOSS version available
-- [Zap Store](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqq8xxmmd9e3x7mrywaskcmr9ws90nrd9)
-- [Direct APK Download](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.boldwallet)
+
+[![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/com.boldwallet)
+
+[![Get it on Zap Store](https://zapstore.dev/images/logo.svg)](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqq8xxmmd9e3x7mrywaskcmr9ws90nrd9)
+
+**[Direct APK Download](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)**
 
 > ⚠️ **Important:** If installing the APK directly, it is signed with the official BoldWallet keystore and is **not compatible** with the F-Droid version. Always install updates from **one source only** to avoid signature conflicts.
 
