@@ -26,6 +26,8 @@ layout:
 
 No seeds, no hardware wallets, no dependencies. Pure and Resilient Bitcoin Security, powered by superior Threshold Signatures technology, for ultimate self-custody control.
 
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/ezgif-42f905e54646aa47.gif" alt="" width="231"><figcaption></figcaption></figure></div>
+
 ---
 
 ## Table of Contents
@@ -126,6 +128,8 @@ Install Bold Bitcoin Wallet on your mobile devices:
 3. **Manage Your Bitcoin** – Securely send, receive, and hold Bitcoin.
 4. **HODL with Peace of Mind** – Your private keys are never exposed or stored in a single place.
 
+{% embed url="https://x.com/boldbtcwallet/status/1988322162386854108?t=r0XXhuaGorGGkuFMniqv0w&s=19" %}
+
 ### Technical Overview
 
 Bold Bitcoin Wallet uses **Threshold Signature Schemes (TSS)** to split your private key across multiple devices:
@@ -136,7 +140,6 @@ Bold Bitcoin Wallet uses **Threshold Signature Schemes (TSS)** to split your pri
 - **Cryptographic Security**: Uses proven cryptographic protocols for key generation and signing
 
 ---
-
 ## Features
 
 ### Why Choose Bold Bitcoin Wallet?
