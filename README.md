@@ -116,13 +116,13 @@ Install Bold Bitcoin Wallet on your mobile devices:
 
 #### iOS
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83\&releaseDate=1699228800)](https://apps.apple.com/ae/app/bold-bitcoin-wallet/id6748949478)
+<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&#x26;releaseDate=1699228800" alt="Download on the App Store" data-size="original">
 
 #### Android
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.boldwallet)
+<div align="left"><figure><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-[![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/com.boldwallet)
+<div align="left"><figure><img src="https://f-droid.org/badge/get-it-on.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 [![Get it on Zap Store](https://zapstore.dev/images/logo.svg)](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqq8xxmmd9e3x7mrywaskcmr9ws90nrd9)
 
