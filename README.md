@@ -110,19 +110,19 @@ Install Bold Bitcoin Wallet on your mobile devices:
 
 #### iOS
 
-[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1699228800" alt="Download on the App Store" height="60">](https://apps.apple.com/ae/app/bold-bitcoin-wallet/id6748949478)
+[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1699228800" alt="Download on the App Store" height="50">](https://apps.apple.com/ae/app/bold-bitcoin-wallet/id6748949478)
 
 #### Android
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.boldwallet)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50">](https://play.google.com/store/apps/details?id=com.boldwallet)
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/packages/com.boldwallet)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="50">](https://f-droid.org/packages/com.boldwallet)
 
-[<img src="https://zapstore.dev/images/logo.svg" alt="Get it on Zap Store" height="60">](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqq8xxmmd9e3x7mrywaskcmr9ws90nrd9)
+[<img src="https://zapstore.dev/images/logo.svg" alt="Get it on Zap Store" height="50">](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqq8xxmmd9e3x7mrywaskcmr9ws90nrd9)
 
 #### Direct Download
 
-[<img src="https://github.com/fluidicon.png" alt="GitHub" height="20" style="vertical-align:middle"> **Download APK from GitHub Releases**](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)
+[<img src="https://github.com/fluidicon.png" alt="GitHub" height="32" style="vertical-align:middle"> **Download APK from GitHub Releases**](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)
 
 > ⚠️ **Important:** If installing the APK directly, it is signed with the official BoldWallet keystore and is **not compatible** with the F-Droid version. Always install updates from **one source only** to avoid signature conflicts.
 
