@@ -120,11 +120,15 @@ Install Bold Bitcoin Wallet on your mobile devices:
 
 #### Android
 
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.boldwallet)
 
+[![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/com.boldwallet)
+
+[![Get it on Zap Store](https://zapstore.dev/images/logo.svg)](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqq8xxmmd9e3x7mrywaskcmr9ws90nrd9)
 
 #### Direct Download
 
-
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) **Download APK from GitHub Releases**](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)
 
 > ⚠️ **Important:** If installing the APK directly, it is signed with the official BoldWallet keystore and is **not compatible** with the F-Droid version. Always install updates from **one source only** to avoid signature conflicts.
 
