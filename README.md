@@ -122,7 +122,7 @@ Install Bold Bitcoin Wallet on your mobile devices:
 
 #### Direct Download
 
-[<img src="https://github.com/fluidicon.png" alt="GitHub" height="32" style="vertical-align:middle"> **Download APK from GitHub Releases**](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)
+[<img src="https://github.com/fluidicon.png" alt="GitHub" height="20" style="vertical-align:middle"> **Download APK from GitHub Releases**](https://github.com/BoldBitcoinWallet/BoldWallet/releases/latest)
 
 > ⚠️ **Important:** If installing the APK directly, it is signed with the official BoldWallet keystore and is **not compatible** with the F-Droid version. Always install updates from **one source only** to avoid signature conflicts.
 
