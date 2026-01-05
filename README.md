@@ -75,7 +75,7 @@ Bold Bitcoin Wallet is an open-source, self-custodial Bitcoin wallet designed fo
 
 * ✅ **Seedless Setup** - No seed phrases to write down or lose. Uses Threshold Signature Scheme (TSS)
 * 🔐 **Multi-Device Security** - Private key split across 2-3 devices. Choose Duo (2-of-2) or Trio (2-of-3) mode
-* 🔒 **End-to-End Encryption** - All device communications encrypted with NIP-44
+* 🔒 **End-to-End Encryption** - All device communications encrypted (AES/ECIES Local Wifi / Nostr with NIP-44)
 * 👁️ **Privacy Controls** - Hide/show balance, anonymous API access, no personal data collection
 
 ### 🌐 Connectivity
@@ -87,7 +87,7 @@ Bold Bitcoin Wallet is an open-source, self-custodial Bitcoin wallet designed fo
 
 ### 💰 Bitcoin Features
 
-* 💎 **All Address Types** - Legacy, SegWit Native, SegWit Compatible, and Taproot support
+* 💎 **Supported Address Types** - Legacy, SegWit Native, SegWit Compatible
 * 🎛 **PSBT Signing** - Sign transactions from Sparrow, Electrum, BlueWallet, and other wallets
 * 📋 **Multi-Descriptor Support** - Generate output descriptors for all address types
 * 🧾 **Flexible Mempool** - Support for Mempool.space (public or self-hosted)
@@ -178,12 +178,11 @@ Bold Wallet supports **Nostr** for decentralized device pairing and transaction 
 
 ### 💰 Multi-Address Type Support
 
-Bold supports all Bitcoin address types:
+Bold supported Bitcoin address types:
 
 * **Legacy (P2PKH)** – Addresses starting with `1` (mainnet) or `m/n` (testnet)
 * **SegWit Native (P2WPKH)** – Addresses starting with `bc1` (mainnet) or `tb1` (testnet) - **Default for new wallets** (lower fees)
 * **SegWit Compatible (P2SH-P2WPKH)** – Addresses starting with `3` (mainnet) or `2` (testnet)
-* **Taproot (P2TR)** – Addresses starting with `bc1p` (mainnet) or `tb1p` (testnet)
 
 New wallets default to SegWit Native (BIP84) for better efficiency and lower transaction fees.
 
@@ -329,7 +328,7 @@ cd BBMTLib
 
 For detailed recovery instructions, including:
 
-* All address types (Legacy, SegWit Native, SegWit Compatible, Taproot)
+* Supported address types (Legacy, SegWit Native, SegWit Compatible)
 * Platform-specific instructions (Windows, Linux, macOS)
 * Troubleshooting common issues
 * Complete workflow examples
