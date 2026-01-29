@@ -372,7 +372,7 @@ No hidden safety net.
 Only:
 - your devices
 - math
-- open-source code
+- open-source code.
 
 ---
 
